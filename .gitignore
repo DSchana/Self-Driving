@@ -1,0 +1,14 @@
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+Communications-Pipe/stream_dump
+Communications-Pipe/stream_dump.log
+**/Playground
+kernel
+**/*.mp4

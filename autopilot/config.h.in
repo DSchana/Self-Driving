@@ -1,0 +1,2 @@
+#define Playground_VERSION_MAJOR @Playground_VERSION_MAJOR@
+#define Playground_VERSION_MINOR @Playground_VERSION_MINOR@
