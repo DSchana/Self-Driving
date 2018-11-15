@@ -98,7 +98,7 @@ int main(int arg_c, char** arg_v) {
 	bool debug = false;
 	bool show_hud = true;
 	bool paused = false;
-	bool is_autonomous = false;
+	bool is_autonomous = true;
 	bool send_cmd = true;
 
 	// Parse command line args
